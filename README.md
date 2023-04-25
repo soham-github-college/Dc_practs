@@ -23,13 +23,13 @@
 2) Now craete another file named as GroupReceiver.java and paste myserver code from exp3.
 3) open 2 terminal at the same location where your 2 file is saved.
 
-**type below 2 command in one terminal**
+*type below 2 command in one terminal*
 
     javac GroupSender.java
     
     java GroupSender
-    
-**type below command in other terminal**
+   
+*type below command in other terminal*
 
     javac GroupReceiver.java
     
