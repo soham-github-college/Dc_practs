@@ -48,5 +48,5 @@ open terminal
 
 javac RoundRobinLoadBalancer.java
 
-javac RoundRobinLoadBalancer 
+java RoundRobinLoadBalancer 
 
