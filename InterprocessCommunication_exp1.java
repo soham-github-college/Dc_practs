@@ -39,5 +39,5 @@ s.close();
 }
 
 
-OUTPUT
-message= Hello Server 
+/*OUTPUT
+message= Hello Server */
