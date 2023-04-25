@@ -40,7 +40,7 @@
 
 **Exp 8**
 
-create file RoundRobinLoadBalancer.java
+Create file RoundRobinLoadBalancer.java
 paste the code 
 open terminal
 
