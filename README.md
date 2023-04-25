@@ -4,9 +4,12 @@
 2) Now craete another file named as MyServer.java and paste myserver code from exp1.
 3) open 2 terminal at the same location where your 2 file is saved.
 
-*type below commands*
+**type below 2 command in one terminal**
+    javac MyClient.java
+    java MyClient
+    
+**type below command in other terminal**
+    javac MyServer.java
+    java MyServer
 
-4) javac MyServer.java
-5) javac MyClient.java
-6) java MyClient
-7) java MyServer
+
