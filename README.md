@@ -25,15 +25,16 @@
 
 *type below 2 command in one terminal*
 
-    javac GroupSender.java
+     javac GroupReceiver.java
     
-    java GroupSender
+    java GroupReceiver
+   
    
 *type below command in other terminal*
 
-    javac GroupReceiver.java
+    javac GroupSender.java
     
-    java GroupReceiver
+    java GroupSender
 
 
 **Exp 4, 6 directly run hota hai ide me**
