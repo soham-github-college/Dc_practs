@@ -6,10 +6,12 @@
 
 **type below 2 command in one terminal**
     javac MyClient.java
+    
     java MyClient
     
 **type below command in other terminal**
     javac MyServer.java
+    
     java MyServer
 
 
