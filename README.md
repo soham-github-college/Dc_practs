@@ -70,6 +70,8 @@ $ ./myprogram
     
     
 **RMI EXECUTION**
+
+    
 For running this rmi example,  
   
 1) compile all the java files  
