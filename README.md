@@ -37,7 +37,7 @@
     java GroupSender
 
 
-**Exp 4, 6 directly run hota hai ide me**
+**Exp 4 directly run hota hai ide me**
 
 **Exp 8**
 
@@ -51,7 +51,7 @@ javac RoundRobinLoadBalancer.java
 
 java RoundRobinLoadBalancer 
 
-EXP 6
+**EXP 6**
 
 Step 1 − Open a new terminal window or cmd if you are on windows.
 
